@@ -1,0 +1,5 @@
+com\sap\scholarapp\entity\Scholar.class
+com\sap\scholarapp\ScholarappApplication.class
+com\sap\scholarapp\services\ScholarService.class
+com\sap\scholarapp\controller\ScholarController.class
+com\sap\scholarapp\repository\ScholarRepository.class
